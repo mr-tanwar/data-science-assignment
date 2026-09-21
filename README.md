@@ -44,6 +44,8 @@ The main files are:
 
 ## Setup and Installation
 
+Repo link : https://github.com/mr-tanwar/data-science-assignment
+
 Make sure Python 3.10 or later is installed.
 
 From the project root, install the required packages using:
